@@ -1,0 +1,6 @@
+{
+  "name": "Overtime Tracker",
+  "description": "Offline overtime tracking app with live clock, daily punch out, duty & overtime calculation, exportable history table, and customizable office entry time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
