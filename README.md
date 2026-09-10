@@ -46,6 +46,7 @@ A professional and utility-focused Android application designed for engineers an
 
 ---
 
-## 📄 License
+## 📄 License 
+Proprietary software. Copyright © 2026 Md. Sabbir Rahman. All rights reserved.
 
 This project is licensed under the MIT License.
